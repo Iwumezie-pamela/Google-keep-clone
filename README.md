@@ -1,3 +1,6 @@
 # Google-keep-clone
 JavaScript project done with javascript class constructor method.
-![image](https://user-images.githubusercontent.com/106850538/205140276-59a3475f-d429-4d14-a6de-0f665923e026.jpg)
+
+https://user-images.githubusercontent.com/106850538/205145972-c50803c2-53d5-4153-ad51-d7f1142dd7b3.mov
+
+
